@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+
+
+body {
+    margin: 0;
+    font-family: "Quicksand";
+    background-image: url(./assets/me+trybe.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+ 
+}
+
+
+
+
+
+
+/* ------------------------------------------------------------------------------------ Style Assets ---------------------------------------------------------------------------*/
+
+
+#containerhabilidadem .listhabilidade {
+    display:inline-block
+}
+
+
+.imggit .imghtml .imgcss .imgjs .imgagil{
+    width: 25px;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
