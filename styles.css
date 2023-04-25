@@ -3,12 +3,13 @@
 
 
 body {
-    margin: 0;
+    
     font-family: "Quicksand";
     background-image: url(./assets/me+trybe.jpg);
     background-repeat: no-repeat;
     background-size: contain;
- 
+   
+
 }
 
 
@@ -18,16 +19,21 @@ body {
 
 /* ------------------------------------------------------------------------------------ Style Assets ---------------------------------------------------------------------------*/
 
-
-#containerhabilidadem .listhabilidade {
-    display:inline-block
+.imggit, .imghtml, .imgcss, .imgjs, .imgagil, .git, .html, .css, .js, .metoAgil{
+    display: inline-block;
 }
 
-
-.imggit .imghtml .imgcss .imgjs .imgagil{
+.imggit, .imghtml, .imgcss, .imgjs, .imgagil{
     width: 25px;
 }
 
-/* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------Styles Links ---------------------------------------------------------------------------------- */
 
+.links {
+    display: inline-block;
 
+}
+
+.media2 {
+    width: 50px;
+}
