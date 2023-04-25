@@ -11,16 +11,11 @@ body {
 
 #container {
     margin-top: 25%;
-
-    
+   
 }
 
 
 /* ------------------------------------------------------------------------------------ Style Assets ---------------------------------------------------------------------------*/
-
-
-
-
 
 .imggit, .imghtml, .imgcss, .imgjs, .imgagil, .git, .html, .css, .js, .metoAgil {
    
@@ -35,6 +30,7 @@ body {
 
 .links {
     display: inline-block;
+    margin-left: 35px;
 
 }
 
