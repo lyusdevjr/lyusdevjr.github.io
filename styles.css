@@ -1,25 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
-
-
 body {
-    
     font-family: "Quicksand";
     background-image: url(./assets/me+trybe.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
-   
-
+    background-size: 100%;
+    display: inline-block;
 }
 
 
+#container {
+    margin-top: 25%;
 
-
+    
+}
 
 
 /* ------------------------------------------------------------------------------------ Style Assets ---------------------------------------------------------------------------*/
 
-.imggit, .imghtml, .imgcss, .imgjs, .imgagil, .git, .html, .css, .js, .metoAgil{
+
+
+
+
+.imggit, .imghtml, .imgcss, .imgjs, .imgagil, .git, .html, .css, .js, .metoAgil {
+   
     display: inline-block;
 }
 
