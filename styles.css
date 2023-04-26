@@ -11,8 +11,6 @@ body {
     padding: 0;
     margin: 0;
     font-family: Quicksand;
-    
-
 }
 
 #minhaImagem {
@@ -33,8 +31,7 @@ h1 , h2{
     font-size: 40px;
     line-height: 10px;
     color: rgb(105, 105, 105);
-    text-shadow: -1px 0 rgb(163, 163, 163), 0 1px rgb(172, 172, 172),
-    1px 0 rgb(211, 211, 211), 0 -1px rgb(153, 153, 153);
+    text-shadow: -1px 0 rgb(163, 163, 163);
 }
 
 p {
