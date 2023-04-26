@@ -1,20 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
-
-
-
 
 
 
 body {
-    font-family: "Quicksand";
-    background-image: url(./assets/me+trybe.jpg);
+    
+    background-image: url(./assets/trybebanner.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     display: inline-block;
     border-radius: 10px;
+    padding: 0;
+    margin: 0;
+    
 
 }
 
+#minhaImagem {
+    background-image: url(./assets/mefoto.jpg);
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: absolute;
+    width: 200px;
+    border: 4px solid #84f009;
+    color:#84f009;
+    box-shadow: 0px 0px 35px  #84f009 , 0px 0px 15px #255957 inset;
+    border-radius: 15px;
+    margin-left: 10px;
+}
 
 
 h1 , h2{
@@ -26,7 +37,31 @@ h1 , h2{
 p {
     font-size: 15px;
     color: #84f009;
+   
 }
+
+.meuNome , .resido{
+    display: flex;
+    padding:20px;
+    margin-left: 210px;
+    line-height: 20%;
+    margin-bottom:5px;
+   
+}
+
+.sobre {
+    display: flex;
+    padding: 10px;
+    margin-top: 10%;
+    line-height: 20%;
+}
+
+.sobreMim {
+    display: flex;
+    padding-bottom: 15px;
+    margin-left: 10px;
+}
+
 
 #container {
     margin-top: 27%;
@@ -43,7 +78,11 @@ p {
     border: 2px solid #329F5B;
     background-color: #255957;
     border-radius: 10px;
-    padding: 10px 15px;
+    padding: 20px 15px;
+    margin-left: 10px;
+    padding-bottom: 50px;
+    margin-bottom: 5px;
+    
 }
 
 .imggit, .imghtml, .imgcss, .imgjs, .imgagil, .git, .html, .css, .js, .metoAgil {
