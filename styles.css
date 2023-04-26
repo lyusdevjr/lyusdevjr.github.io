@@ -1,26 +1,58 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
+
+
+
+
+
 body {
     font-family: "Quicksand";
     background-image: url(./assets/me+trybe.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     display: inline-block;
+    border-radius: 10px;
+
 }
 
+
+
+h1 , h2{
+    font-size: 40px;
+    line-height: 10px;
+    color: rgb(105, 105, 105);
+}
+
+p {
+    font-size: 15px;
+    color: #84f009;
+}
 
 #container {
     margin-top: 27%;
     margin-left: 10px;
-
 }
 
 
+
 /* ------------------------------------------------------------------------------------ Style Assets ---------------------------------------------------------------------------*/
+.Caixa {
+    
+    width: 480px;
+    height: 230px;
+    border: 2px solid #329F5B;
+    background-color: #255957;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
 
 .imggit, .imghtml, .imgcss, .imgjs, .imgagil, .git, .html, .css, .js, .metoAgil {
    
     display: inline-block;
+    font-size: 20px;
+    font-weight: 800;
+    color: #329F5B;
+
 }
 
 .imggit, .imghtml, .imgcss, .imgjs, .imgagil{
@@ -31,10 +63,12 @@ body {
 
 .links {
     display: inline-block;
-    margin-left: 35px;
+    padding: 10px;
 
 }
 
 .media2 {
     width: 50px;
 }
+
+
