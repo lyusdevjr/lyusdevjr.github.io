@@ -133,7 +133,7 @@ body {
     transition-duration: 2s;
 }
 
-.linkedin:hover, .github:hover, .gmail:hover {
+.github:hover, .gmail:hover, .linkedin:hover {
     -webkit-transform: scale(1.3);
     -ms-transform: scale(1.3);
     transform: scale(1.3);
@@ -299,6 +299,7 @@ body {
 
 .html {
     position: absolute;
+    height: 60px;
     left: 20%;
     right: 33.93%;
     top: 75%;
@@ -308,7 +309,8 @@ body {
 .css {
 
     position: absolute;
-    left: 30%;
+    height: 60px;
+    left: 33%;
     right: 33.93%;
     top: 75%;
     bottom: 50.06%;
