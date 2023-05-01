@@ -29,7 +29,7 @@ html {
 .container{
     background-color: rgb(255, 255, 255);
     position: absolute;
-    width:  93%;
+    width:  91%;
     height: 91.5%;
     left: 58px;
     top:83px;
@@ -86,8 +86,8 @@ div span {
 
 .img {
     position: relative;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     left: 77%;
     bottom:210px;
     border-radius: 3px 70px 3px;
@@ -98,7 +98,7 @@ div span {
 .html {
     position: absolute;
     top: 810px;
-    left: 280px;
+    left: 150px;
     width: 90px;
     border-radius: 2px 60px 2px;
     
@@ -107,7 +107,7 @@ div span {
 .css {
     position: absolute;
     top: 810px;
-    left: 400px;
+    left: 200px;
     width: 90px;
     border-radius: 2px 60px 2px;
 }
@@ -115,7 +115,7 @@ div span {
 .js {
     position: absolute;
     top: 805px;
-    left: 520px;
+    left: 300px;
     width: 90px;
     border-radius: 2px 60px 2px;
 }
