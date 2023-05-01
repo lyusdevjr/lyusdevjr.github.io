@@ -21,8 +21,9 @@ body {
     box-shadow: 0px 4px 4px rgba(43, 39, 39, 0.25);
 }
 .containers {
+
     box-sizing: border-box;
-    position: absolute;
+    position: relative;
     width: 308px;
     height: 506px;
     left: 86px;
